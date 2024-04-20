@@ -1,0 +1,40 @@
+/* CSS styles for CRUD Example */
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#itemList {
+    margin-bottom: 20px;
+}
+
+#itemList div {
+    margin-bottom: 10px;
+}
+
+#addItemForm {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#addItemForm input[type="text"] {
+    padding: 5px;
+    margin-right: 10px;
+}
+
+#addItemForm button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.deleteBtn {
+    padding: 2px 5px;
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
